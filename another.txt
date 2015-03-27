@@ -1,5 +1,10 @@
 1234567890
 
+<<<<<<< HEAD
 change under branch
+=======
+another branch for maintenance
+
+>>>>>>> master
 
 do do
